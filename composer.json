@@ -15,4 +15,7 @@
     "require": {
         "hallowichig0/menu_for_all": "^1.0"
     }
+    "require-dev": {
+        "hallowichig0/menu_for_all": "^1.0"
+    }
 }
