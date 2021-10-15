@@ -24,7 +24,13 @@ The Menu For All just requires the Custom Menu Links project core:
 INSTALLATION
 ------------
 
-Install as you would normally install a contributed Drupal module. See:
+Using Composer:
+composer require 'hallowichig0/menu_for_all'
+
+Clone repository:
+git clone https://github.com/hallowichig0/menu_for_all.git
+
+Or you can install as you would normally install a contributed Drupal module. See:
 https://drupal.org/documentation/install/modules-themes/modules-8 for further
 information.
 
