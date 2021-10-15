@@ -30,7 +30,7 @@ INSTALLATION
       "url": "git@github.com:hallowichig0/menu_for_all.git"
 ```
 
-2. In your composer.json, search the installer-paths and add this line of codes to the group of install-paths
+2. In your composer.json, search the installer-paths and add this line of codes to the group of installer-paths
 ```"web/modules/custom/{$name}/": ["type:drupal-custom-module"]```
 
 3. Install using the composer:
