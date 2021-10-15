@@ -1,7 +1,7 @@
 {
     "name": "hallowichig0/menu_for_all",
     "description": "Force menu item to make visibility for all roles specially the anonymous users.",
-    "type": "drupal-module",
+    "type": "drupal-custom-module",
     "keywords": ["Drupal"],
     "homepage": "https://github.com/hallowichig0/menu_for_all",
     "authors": [
