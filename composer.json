@@ -13,6 +13,6 @@
     ],
     "license": "GPL-2.0-or-later",
     "require": {
-        "drupal/core": "^8 || ^9"
+        "hallowichig0/menu_for_all": "^8 || ^9"
     }
 }
