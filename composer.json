@@ -12,6 +12,7 @@
         }
     ],
     "license": "GPL-2.0-or-later",
+    "minimum-stability": "stable",
     "require": {
         "hallowichig0/menu_for_all": "^1.0"
     }
