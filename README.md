@@ -24,15 +24,20 @@ The Menu For All just requires the Custom Menu Links project core:
 INSTALLATION
 ------------
 
-Using Composer:
-composer require 'hallowichig0/menu_for_all'
+1. Edit your composer.json in your project directory and paste this code in the group of repositories.
+```{
+      "type": "vcs",
+      "url"
+```
 
-Clone repository:
-git clone https://github.com/hallowichig0/menu_for_all.git
+2. In your composer.json, search the installer-paths and add this line of codes to the group of install-paths
+```"web/modules/custom/{$name}/": ["type:drupal-custom-module"]```
 
-Or you can install as you would normally install a contributed Drupal module. See:
-https://drupal.org/documentation/install/modules-themes/modules-8 for further
-information.
+3. Install using the composer:
+```composer require 'hallowichig0/menu_for_all'```
+
+4. You can clone the repository in the module/custom:
+```git clone https://github.com/hallowichig0/menu_for_all.git```
 
 
 MAINTAINERS
