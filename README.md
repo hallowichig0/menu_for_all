@@ -27,7 +27,7 @@ INSTALLATION
 1. Edit your composer.json in your project directory and paste this code in the group of repositories.
 ```{
       "type": "vcs",
-      "url"
+      "url": "git@github.com:hallowichig0/menu_for_all.git"
 ```
 
 2. In your composer.json, search the installer-paths and add this line of codes to the group of install-paths
