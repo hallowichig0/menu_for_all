@@ -45,3 +45,5 @@ MAINTAINERS
 
 Current maintainers:
  * Jayson Garcia - https://www.drupal.org/u/hallow_ichig0
+
+Credits to Halcyon Web Design for development time.
